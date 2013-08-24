@@ -60,7 +60,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => 'josera3E',
+		'password' => '',
 		'database' => 'listatareas',
 		'prefix' => '',
 		//'encoding' => 'utf8',
